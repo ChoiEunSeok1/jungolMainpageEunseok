@@ -1,0 +1,54 @@
+img{ width: 100%; height: 100%}
+.textBtn {font-size: 12px; color: black; text-decoration: none; }
+.menuBtn {font-size: 15px; color: black; text-decoration: none;}
+	.wrapper{width:70%; height:850px; margin: auto }
+		.mainImgLayout {width:100% ; height: 7.5%;}
+			.mainLogoImg {width:12% ; height: 100%;  float: left;}			
+			.memberBtns {width:12% ; height: 40%;  float: right; text-align: right; padding-right: 15px;}	
+		.mainNavBarLayout {width:100% ; height: 4.5%; background-color: #F5F5F5;}
+			.navBarMenus{width:80% ; height: 100%; margin: auto}
+				.menu1{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;} 
+				.menu1:hover {background-color:gray;}
+				.menu2{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu2:hover {background-color:gray;}
+				.menu3{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu3:hover {background-color:gray;}
+				.menu4{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu4:hover {background-color:gray;}
+				.menu5{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu5:hover {background-color:gray;}
+				.menu6{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu6:hover {background-color:gray;}
+				.menu7{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu7:hover {background-color:gray;}
+				.menu8{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu8:hover {background-color:gray;}
+				.menu9{width:10% ; height: 100%;  float: left; text-align: center; line-height:35px;}
+				.menu9:hover {background-color:gray;}
+				.menu10{width:10% ; height: 100%; float: left; text-align: center; line-height:35px;}
+				.menu10:hover {background-color:gray;}
+		.menuImgLayout {width:100% ; height: 30%;}
+		.middleMenuLayout {width:100% ; height: 22%; }
+			.middlemenu1{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu2{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu3{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu8{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu4{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu5{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu6{width:12.5% ; height: 100%;  float: left;}
+			.middlemenu7{width:12.5% ; height: 100%;  float: left;}
+		.middleImgLayout {width:100% ; height: 30%; }
+			.newsImg {width:40% ; height: 100%; float: left;}
+				.newsImg img {width:95% ; height: 90%; padding-top: 13px;}
+			.advertisingImg {width:60% ; height: 100%; float: left;}
+				.advertisingImg img {width: 90%; height: 80%; padding-top: 13px;}
+				.advmenu1 {width:50% ; height: 50%; text-align: center; float: left;}		
+				.advmenu2 {width:50% ; height: 50%; text-align: center; float: left;}
+				.advmenu3 {width:50% ; height: 50%; text-align: center; float: left;}
+				.advmenu4 {width:50% ; height: 50%; text-align: center; float: left;}
+		.EndImgLayout {width:100% ; height: 6%; background-color: gray; font-size: 12px;}
+			.pinkFont {color: pink; text-decoration: none;}
+			.blueFont {color: #1E90FF; text-decoration: none;}
+			.underlineEffect{text-decoration: none; color:black;}
+			.underlineEffect:hover {text-decoration:underline;}
+}
